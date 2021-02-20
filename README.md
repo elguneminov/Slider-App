@@ -1,1 +1,1 @@
-# Slider App with Html, Css, Js
+# Slider App with Html,Js
